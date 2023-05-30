@@ -2,7 +2,7 @@
 
 I’m a doctoral candidate at the University of Nebraska - Omaha, studying criminology and criminal justice. My research focuses on biopsychosocial criminology, which is basically just trying to predict antisocial behavior using biological variables (e.g., genes), psychological variables (e.g., impulsivity), and sociological variables (e.g., economic disadvantage). Looking forward to contributing to the R-community and open science. 
 
-💬 Ask me about (all based out of R)
+💬 Ask me about 
 - Machine Learning 
 - Structural Equation Modeling (Cross-sectional and/or Longitudinal)
 - Panel Models 
