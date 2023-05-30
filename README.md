@@ -4,7 +4,7 @@ I’m a doctoral candidate at the University of Nebraska - Omaha, studying crimi
 
 💬 Ask me about 
 - Machine Learning 
-- Structural Equation Modeling (Cross-sectional and/or Longitudinal)
+- Structural Equation Modeling 
 - Panel Models 
 - Mixed Models
 - Regression
