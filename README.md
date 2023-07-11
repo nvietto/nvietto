@@ -5,5 +5,6 @@ I’m a doctoral candidate at the University of Nebraska - Omaha, studying crimi
 
 
 <a rel="me" href="https://fosstodon.org/@nvietto">Mastodon</a>
+
 <a href = "https://www.nicholasvietto.com" >Webstie</a>
 
