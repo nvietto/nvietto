@@ -21,10 +21,7 @@ I’m a doctoral candidate at the University of Nebraska - Omaha, studying crimi
 
 
 
-<p align='center'>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nvietto/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nvietto/langs)](https://githubtrends.io)
-
-
-</p>
