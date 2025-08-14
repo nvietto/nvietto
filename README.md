@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a doctoral candidate at the University of Nebraska - Omaha, studying criminology and criminal justice. My research focuses on biopsychosocial criminology and quantitative methods. Looking forward to contributing to the R-community and open science. 
+I’m a PhD candidate in the School of Criminology and Criminal Justice where my research centers on biopsychosocial criminology and quantitative methodology. I’m also a huge Detroit sports fan 🦁. A happy vegan 🌱. A data viz 📈 enthusiast. And I love all things R.
 
 <p align='center'>
   </a>
