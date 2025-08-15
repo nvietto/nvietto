@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a PhD candidate in the School of Criminology and Criminal Justice where my research centers on biopsychosocial criminology and quantitative methodology. I’m also a huge Detroit sports fan 🦁. A happy vegan 🌱. A data viz 📈 enthusiast. And I love all things R.
+I’m a PhD candidate in the School of Criminology and Criminal Justice, with research interests in quantitative methodology and data visualization. I also love all things R.
 
 <p align='center'>
   </a>
