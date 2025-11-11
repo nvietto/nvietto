@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a data visualization enthusiast with a background in quantitative methods in criminology. I'm also a huge Detroit sports fan 🦁. A happy vegan 🌱. A data viz 📈 enthusiast. And I love all things R.
+I’m a data visualization enthusiast with a background in quantitative methods in criminology. I'm also a huge Detroit sports fan 🦁. A happy vegan 🌱. And I love all things R.
 
 <p align='center'>
   </a>
