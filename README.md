@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a PhD candidate in the School of Criminology and Criminal Justice at the University of Nebraska-Omaha, with research interests in quantitative methodology and data visualization. I also love all things R.
+I’m a data visualization enthusiast with a background in quantitative methods in criminology. I'm also a huge Detroit sports fan 🦁. A happy vegan 🌱. A data viz 📈 enthusiast. And I love all things R.
 
 <p align='center'>
   </a>
